@@ -1,0 +1,30 @@
+@charset "UTF-8";
+
+body{
+    background-color: aliceblue;
+    font: 1em sans-serif;
+    text-align: left;
+}
+
+h1{
+   color: rgb(31, 31, 136); 
+}
+
+#principal{
+    text-align: center;
+    color: #01013f;
+    background-color: #c2b0ff;
+}
+
+h2{
+    color: #475841;
+}
+
+p{
+    text-align: justify;
+    text-indent: 20px;
+}
+
+.avançado{
+    color: #754043;
+}
